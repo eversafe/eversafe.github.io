@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Cloudexchage"
   avatar           : # "https://cloudexchange.co.kr/static/base/header_logo.png"
-  bio              : #""
-  location         : #""
+  bio              : # ""
+  location         : # ""
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
